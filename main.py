@@ -11,6 +11,8 @@ speaking because the beef was too good to interrupt. Named dish, place,
 texture and sound in one sentence; a memory that belongs to one person,
 not a stock line; the ending image — a whole room silenced by good beef
 — is the turn that stays with the reader.
+
+Entry verified: 186 characters, gate 1-200.
 """
 
 from pathlib import Path
